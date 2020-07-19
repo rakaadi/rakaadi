@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+⚡ Fun fact: This space is WIP, just wait for more meaningful content. So, in the meantime please enjoy this...
+
+Chrome://dino
+
 <!--
 **rakaadi/rakaadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
