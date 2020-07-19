@@ -3,7 +3,7 @@
 ⚡ Fun fact: This space is WIP, just wait for more meaningful content. So, in the meantime please enjoy this...
 
 <div style="width:300px; height:300px;">
-  <img src="/loading-shape.gif" alt="gif image">
+  <img src="https://github.com/rakaadi/rakaadi/blob/master/loading-shape.gif" alt="gif image">
 </div>
 
 <!--
