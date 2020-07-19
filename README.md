@@ -2,7 +2,9 @@
 
 ⚡ Fun fact: This space is WIP, just wait for more meaningful content. So, in the meantime please enjoy this...
 
-Chrome://dino
+<div style="width:300px; height:300px;">
+  <img src="/loading-shape.gif" alt="gif image">
+</div>
 
 <!--
 **rakaadi/rakaadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
